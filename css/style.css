@@ -1,0 +1,22 @@
+#html5chat-help {
+	width: 100%;
+	height: 657px;
+	display: block;
+	background: #fff;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	font-size: 18px;
+}
+
+#html5chat-help code {
+	display: block;
+	background-color: #F3F5F6;
+	color: #39464E;
+	padding: 8px 12px;
+	border-left: 4px solid #4CAF50;
+	word-wrap: break-word;
+}
+
+#buttonHtml5-chat {
+
+}
